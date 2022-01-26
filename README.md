@@ -1,4 +1,4 @@
-- 💻 Oi, eu sou Danilo Oliveira
+- 👨🏻‍💻 Oi, eu sou Danilo Oliveira
 - 🚀 Estou desenvolvendo projetos Back-end
 - 👦🏻 17 Anos 
 - 📒 Cursando 3°ano do Ensino Médio 

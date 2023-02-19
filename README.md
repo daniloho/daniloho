@@ -1,4 +1,4 @@
 - 👨🏻‍💻 Oi, eu sou Danilo de Oliveira
 - 🚀 Estou desenvolvendo projetos Back-end e Front-end
 - 👤 18 Anos 
-- 💻 Graduando em Análise e Desenvolvimento de Sistemas|UPM
+- 💻 Graduando em Análise e Desenvolvimento de Sistemas | UPM
